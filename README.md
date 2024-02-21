@@ -1,5 +1,9 @@
 # Transfert coin with Binance
 
+## Install nodeJS
+
+Link : https://nodejs.org/en/download
+
 ## Create .env file in the same directory and fill it
 ```sh
 APIKEY=
